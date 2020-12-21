@@ -26,12 +26,17 @@ The following shows the overall scores and passing percentages for the PyCity sc
  - Changes to the district math, reading and overall passing percentages were minimal and too small to show on the analysis
 
 #### School Summary
-The following table shows the scores and passing percentages for each of the schools on the PyCity schools district. There are clear differences between schools and the remaining analysis shows different grouping of the data to show what might be causing the variation. 
+The following table shows the scores and passing percentages for each of the schools on the PyCity schools district. There are clear differences between schools and the remaining analysis shows different grouping of the data to show what might be causing the variation. The top 5 schools in the district are
 ![School Summary](https://github.com/mhorstman/School_District_Analysis/blob/main/Analysis/School_Summary.png)
 
+The top and bottom 5 schools in the district are:
+ - Top Schools: Cabrera HS, Thomas HS, Griffin HS, Wilson HS and Pena HS
+ - Bottom Schools: Rodriguez HS, Figueroa HS, Huang HS, Hernandez HS and Johnson HS
+
 **Change by Removing THS 9th Grade**:
- - The change math and reading scores for THS were less than 0.1
+ - The change to math and reading scores for THS were less than 0.1.
  - THS  math, reading and overall passing scores were reduced by 0.1%, 0.3% and 0.3%, respectively.
+ - Removing the 9th grade reading scores did not change THS from being the second highest ranked school in the district.
 
 ### 2. Scores by Grade
 The following shows the math and reading scores by grade for each school in the district. 
